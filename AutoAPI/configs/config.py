@@ -3,4 +3,4 @@
 # @Author: 师玉幺叔
 # @Software: Pycharm
 
-HOST = 'http://121.41.14.39:8082'
+HOST = 'http://ip:端口号'
